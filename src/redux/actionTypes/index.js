@@ -1,0 +1,7 @@
+export const FETCH_COUNTRY = 'FETCH_COUNTRY';
+export const SET_COUNTRY = 'SET_COUNTRY';
+export const SET_COUNTRY_ERROR = 'SET_COUNTRY_ERROR';
+
+export const FETCH_WEATHER = 'FETCH_WEATHER';
+export const SET_WEATHER = 'SET_WEATHER';
+export const SET_WEATHER_ERROR = 'SET_WEATHER_ERROR';
